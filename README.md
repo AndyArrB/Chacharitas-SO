@@ -1,0 +1,2 @@
+# Chacharitas-SO
+Proyecto dockerizado
